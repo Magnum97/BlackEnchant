@@ -53,8 +53,8 @@ repositories {
 dependencies {
 //    testCompile group: 'junit', name: 'junit', version: '4.12'
     compileOnly paper("1.16.1")
-    implementation 'org.mineacademy:Foundation:5.6.2'
-    implementation 'com.github.javafactorydev:lightningstorage:3.1.6'
+    implementation 'org.mineacademy:Foundation:5.5.6'
+//    implementation 'com.github.javafactorydev:lightningstorage:3.1.6'
 //    compileOnly 'com.github.TechFortress:GriefPrevention:16.14.0'
 //    compileOnly 'com.github.TechFortress:GriefPrevention:dev~v20-SNAPSHOT'
 }
